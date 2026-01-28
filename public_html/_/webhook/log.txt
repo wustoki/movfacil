@@ -1,0 +1,166 @@
+{"action":"payment.created","api_version":"v1","data":{"id":"88044055498"},"date_created":"2024-09-16T20:41:37Z","id":115848945821,"live_mode":true,"type":"payment","user_id":"472411667"}ref = 
+{"action":"payment.updated","api_version":"v1","data":{"id":"88044055498"},"date_created":"2024-09-16T20:41:37Z","id":115894001528,"live_mode":true,"type":"payment","user_id":"472411667"}ref = 
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/88045700600","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"88045700600"},"date_created":"2024-09-16T20:54:52Z","id":115849201753,"live_mode":true,"type":"payment","user_id":"472411667"} | External Reference: 66e89b1ab57b2 | Status: pending
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/88045700600","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"88045700600"},"date_created":"2024-09-16T20:54:52Z","id":115894258462,"live_mode":true,"type":"payment","user_id":"472411667"} | External Reference: 66e89b1ab57b2 | Status: approved
+{"action":"payment.updated","api_version":"v1","data":{"id":"88045700600"},"date_created":"2024-09-16T20:54:52Z","id":115849285823,"live_mode":true,"type":"payment","user_id":"472411667"} | External Reference: 66e89b1ab57b2 | Status: approved
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/88045700600","topic":"payment"}
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/87745907363","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"87745907363"},"date_created":"2024-09-16T21:03:26Z","id":115894337664,"live_mode":true,"type":"payment","user_id":"472411667"} | External Reference: 66e89d1ce0494 | Status: pending
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/87745907363","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"87745907363"},"date_created":"2024-09-16T21:03:26Z","id":115849486433,"live_mode":true,"type":"payment","user_id":"472411667"} | External Reference: 66e89d1ce0494 | Status: approved
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/88045700600","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"88045700600"},"date_created":"2024-09-16T20:54:52Z","id":115849680829,"live_mode":true,"type":"payment","user_id":"472411667"} | External Reference: 66e89b1ab57b2 | Status: refunded
+Notificação inválida: 
+Notificação inválida: 
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/88049383360","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"88049383360"},"date_created":"2024-09-16T21:34:35Z","id":115895076482,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e8a469e147d | Status: pending
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/87749508447","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"87749508447"},"date_created":"2024-09-16T21:34:57Z","id":115895094326,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e8a47fb09de | Status: pending
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/87749508637","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"87749508637"},"date_created":"2024-09-16T21:35:52Z","id":115895076874,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e8a4b761a01 | Status: pending
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/87749508637","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"87749508637"},"date_created":"2024-09-16T21:35:52Z","id":115850131567,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e8a4b761a01 | Status: approved
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/87749508637","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"87749508637"},"date_created":"2024-09-16T21:35:52Z","id":115895158678,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e8a4b761a01 | Status: refunded
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/87751228583","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"87751228583"},"date_created":"2024-09-16T21:54:00Z","id":115850476745,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e8a8f6be75f | Status: pending
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/87753805705","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"87753805705"},"date_created":"2024-09-16T22:29:48Z","id":115851198707,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e8b15ab7267 | Status: pending
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/87753869635","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"87753869635"},"date_created":"2024-09-16T22:30:22Z","id":115851191005,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e8b17d66ca2 | Status: pending
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/87753869635","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"87753869635"},"date_created":"2024-09-16T22:30:22Z","id":115896230758,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e8b17d66ca2 | Status: approved
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/88055393036","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"88055393036"},"date_created":"2024-09-16T22:38:52Z","id":115851386457,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e8b37b285d6 | Status: pending
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/88055393642","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"88055393642"},"date_created":"2024-09-16T22:42:48Z","id":115896387656,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e8b4674a0ff | Status: pending
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/88084489446","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"88084489446"},"date_created":"2024-09-17T11:08:59Z","id":115858577625,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e9634a5107d | Status: pending
+{"action":"payment.updated","api_version":"v1","data":{"id":"88084489446"},"date_created":"2024-09-17T11:08:59Z","id":115903640424,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e9634a5107d | Status: approved
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/88084489446","topic":"payment"}
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/88084489446","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"88084489446"},"date_created":"2024-09-17T11:08:59Z","id":115903637408,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e9634a5107d | Status: refunded
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/88084745486","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"88084745486"},"date_created":"2024-09-17T11:11:18Z","id":115858605405,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e963d51aa49 | Status: pending
+{"action":"payment.updated","api_version":"v1","data":{"id":"88084745486"},"date_created":"2024-09-17T11:11:18Z","id":115903688190,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e963d51aa49 | Status: approved
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/88084745486","topic":"payment"}
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/88086662222","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"88086662222"},"date_created":"2024-09-17T11:32:34Z","id":115858833003,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e968d1afe82 | Status: pending
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/88086692332","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"88086692332"},"date_created":"2024-09-17T11:34:43Z","id":115903880694,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e9695257c81 | Status: pending
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/87807530549","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"87807530549"},"date_created":"2024-09-17T15:39:45Z","id":115907314616,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e9a2c07d395 | Status: pending
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/87807530549","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"87807530549"},"date_created":"2024-09-17T15:39:45Z","id":115907337466,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e9a2c07d395 | Status: approved
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/88109670182","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"88109670182"},"date_created":"2024-09-17T15:48:51Z","id":115907409524,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e9a4e212885 | Status: pending
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/88109670182","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"88109670182"},"date_created":"2024-09-17T15:48:51Z","id":115907477490,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e9a4e212885 | Status: approved
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/88113813076","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"88113813076"},"date_created":"2024-09-17T16:38:56Z","id":115863221309,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e9b09ef17e2 | Status: pending
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/88113813076","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"88113813076"},"date_created":"2024-09-17T16:38:56Z","id":115863271413,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e9b09ef17e2 | Status: approved
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/88113813076","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"88113813076"},"date_created":"2024-09-17T16:38:56Z","id":115863274859,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e9b09ef17e2 | Status: refunded
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/87732206781","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"87732206781"},"date_created":"2024-09-16T18:03:34Z","id":115864756601,"live_mode":true,"type":"payment","user_id":"472411667"} | External Reference:  | Status: 404
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/88031977894","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"88031977894"},"date_created":"2024-09-16T18:05:42Z","id":115864803445,"live_mode":true,"type":"payment","user_id":"472411667"} | External Reference:  | Status: 404
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/87749508447","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"87749508447"},"date_created":"2024-09-16T21:34:57Z","id":115913497130,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e8a47fb09de | Status: cancelled
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/88049383360","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"88049383360"},"date_created":"2024-09-16T21:34:35Z","id":115868449395,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e8a469e147d | Status: cancelled
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/87751228583","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"87751228583"},"date_created":"2024-09-16T21:54:00Z","id":115913877318,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e8a8f6be75f | Status: cancelled
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/87753805705","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"87753805705"},"date_created":"2024-09-16T22:29:48Z","id":115869473485,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e8b15ab7267 | Status: cancelled
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/88055393036","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"88055393036"},"date_created":"2024-09-16T22:38:52Z","id":115869652975,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e8b37b285d6 | Status: cancelled
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/88055393642","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"88055393642"},"date_created":"2024-09-16T22:42:48Z","id":115914854542,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e8b4674a0ff | Status: cancelled
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/88086662222","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"88086662222"},"date_created":"2024-09-17T11:32:34Z","id":115922277228,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e968d1afe82 | Status: cancelled
+Notificação inválida: {"resource":"https://api.mercadolibre.com/collections/notifications/88086692332","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"88086692332"},"date_created":"2024-09-17T11:34:43Z","id":115922364676,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 66e9695257c81 | Status: cancelled
+Notificação inválida: {"resource":"91429004750","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"91429004750"},"date_created":"2024-10-24T16:52:55Z","id":116591389877,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 671a7b65949b5 | Status: pending
+Notificação inválida: {"resource":"91429004750","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"91429004750"},"date_created":"2024-10-24T16:52:55Z","id":116591457921,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 671a7b65949b5 | Status: approved
+Notificação inválida: {"resource":"91683018591","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"91683018591"},"date_created":"2024-10-31T14:25:33Z","id":116732316431,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 6723935be0d9c | Status: pending
+Notificação inválida: {"resource":"91683018591","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"91683018591"},"date_created":"2024-10-31T14:25:33Z","id":116803776144,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 6723935be0d9c | Status: cancelled
+Notificação inválida: {"resource":"92041137613","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"92041137613"},"date_created":"2024-11-04T14:48:25Z","id":116823113139,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 6728deb7e90f1 | Status: pending
+Notificação inválida: {"resource":"92041137613","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"92041137613"},"date_created":"2024-11-04T14:48:25Z","id":116896283298,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 6728deb7e90f1 | Status: cancelled
+Notificação inválida: {"resource":"92527253358","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"92527253358"},"date_created":"2024-11-06T02:03:07Z","id":116860978677,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 672ace59ef501 | Status: pending
+Notificação inválida: {"resource":"92527253358","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"92527253358"},"date_created":"2024-11-06T02:03:07Z","id":116861004791,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 672ace59ef501 | Status: approved
+Notificação inválida: {"resource":"93776378333","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"93776378333"},"date_created":"2024-11-22T13:25:26Z","id":117281501226,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 67408645a8fa0 | Status: pending
+Notificação inválida: {"resource":"93783211047","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"93783211047"},"date_created":"2024-11-22T14:27:14Z","id":117231313433,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 674094c0c30ae | Status: pending
+Notificação inválida: {"resource":"94117357176","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"94117357176"},"date_created":"2024-11-22T14:54:29Z","id":117232026797,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 67409b24071eb | Status: pending
+Notificação inválida: {"resource":"93786918223","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"93786918223"},"date_created":"2024-11-22T14:55:15Z","id":117232015223,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 67409b51f401d | Status: pending
+Notificação inválida: {"resource":"93786273779","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"93786273779"},"date_created":"2024-11-22T14:56:18Z","id":117232027469,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 67409b918391d | Status: pending
+Notificação inválida: {"resource":"94117357772","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"94117357772"},"date_created":"2024-11-22T14:56:40Z","id":117283612902,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 67409ba6cc332 | Status: pending
+Notificação inválida: {"resource":"94117357772","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"94117357772"},"date_created":"2024-11-22T14:56:40Z","id":117283991010,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 67409ba6cc332 | Status: approved
+Notificação inválida: {"resource":"93776378333","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"93776378333"},"date_created":"2024-11-22T13:25:26Z","id":117305943820,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 67408645a8fa0 | Status: cancelled
+Notificação inválida: {"resource":"93783211047","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"93783211047"},"date_created":"2024-11-22T14:27:14Z","id":117255330417,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 674094c0c30ae | Status: cancelled
+Notificação inválida: {"resource":"93786918223","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"93786918223"},"date_created":"2024-11-22T14:55:15Z","id":117307383878,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 67409b51f401d | Status: cancelled
+Notificação inválida: {"resource":"94117357176","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"94117357176"},"date_created":"2024-11-22T14:54:29Z","id":117307402610,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 67409b24071eb | Status: cancelled
+Notificação inválida: {"resource":"93786273779","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"93786273779"},"date_created":"2024-11-22T14:56:18Z","id":117255839609,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 67409b918391d | Status: cancelled
+Notificação inválida: {"resource":"94103973125","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"94103973125"},"date_created":"2024-11-26T02:43:14Z","id":117362649806,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 674535c11dbcc | Status: pending
+Notificação inválida: {"resource":"94103973125","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"94103973125"},"date_created":"2024-11-26T02:43:14Z","id":117310962597,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 674535c11dbcc | Status: approved
+Notificação inválida: {"resource":"94104270769","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"94104270769"},"date_created":"2024-11-26T02:47:10Z","id":117362701686,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 674536acec58f | Status: pending
+Notificação inválida: {"resource":"94104270769","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"94104270769"},"date_created":"2024-11-26T02:47:10Z","id":117362762194,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 674536acec58f | Status: approved
+Notificação inválida: {"resource":"94193599161","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"94193599161"},"date_created":"2024-11-27T02:18:46Z","id":117384598260,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 6746818399c69 | Status: pending
+Notificação inválida: {"resource":"94193599161","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"94193599161"},"date_created":"2024-11-27T02:18:46Z","id":117384602388,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 6746818399c69 | Status: approved
+Notificação inválida: {"resource":"94596983386","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"94596983386"},"date_created":"2024-11-27T21:18:26Z","id":117348662027,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 67478ca028859 | Status: pending
+Notificação inválida: {"resource":"94596983386","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"94596983386"},"date_created":"2024-11-27T21:18:26Z","id":117348670505,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 67478ca028859 | Status: approved
+Notificação inválida: {"resource":"94543154787","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"94543154787"},"date_created":"2024-11-30T16:20:53Z","id":117417162035,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 674b3b643fa72 | Status: pending
+Notificação inválida: {"resource":"94543154787","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"94543154787"},"date_created":"2024-11-30T16:20:53Z","id":117440753637,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 674b3b643fa72 | Status: cancelled
+Notificação inválida: {"resource":"105115444433","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"105115444433"},"date_created":"2025-03-18T00:21:09Z","id":119912952570,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 67d8bc73a8040 | Status: pending
+Notificação inválida: {"resource":"105115444433","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"105115444433"},"date_created":"2025-03-18T00:21:09Z","id":119937077336,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 67d8bc73a8040 | Status: cancelled
+Notificação inválida: {"resource":"120490620783","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"120490620783"},"date_created":"2025-08-04T20:55:15Z","id":123551919146,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 68911e31e8909 | Status: pending
+Notificação inválida: {"resource":"120490620783","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"120490620783"},"date_created":"2025-08-04T20:55:15Z","id":123470388549,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 68911e31e8909 | Status: approved
+Notificação inválida: {"resource":"120520502419","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"120520502419"},"date_created":"2025-08-05T01:07:42Z","id":123559121540,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 6891595db6728 | Status: pending
+Notificação inválida: {"resource":"120520502419","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"120520502419"},"date_created":"2025-08-05T01:07:42Z","id":123559234646,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 6891595db6728 | Status: approved
+Notificação inválida: {"resource":"121040496336","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"121040496336"},"date_created":"2025-08-05T01:31:35Z","id":123478064637,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 68915ef6ba790 | Status: pending
+Notificação inválida: {"resource":"121040496336","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"121040496336"},"date_created":"2025-08-05T01:31:35Z","id":123559748866,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 68915ef6ba790 | Status: approved
+Notificação inválida: {"resource":"127222103890","topic":"payment"}
+{"action":"payment.created","api_version":"v1","data":{"id":"127222103890"},"date_created":"2025-09-23T10:55:21Z","id":124853210169,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 68d27c9907251 | Status: pending
+Notificação inválida: {"resource":"127222103890","topic":"payment"}
+{"action":"payment.updated","api_version":"v1","data":{"id":"127222103890"},"date_created":"2025-09-23T10:55:21Z","id":124879349623,"live_mode":true,"type":"payment","user_id":"204465364"} | External Reference: 68d27c9907251 | Status: cancelled

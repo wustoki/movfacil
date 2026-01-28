@@ -1,0 +1,17 @@
+[25-Sep-2025 00:45:15 America/Sao_Paulo] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=&amp;destination=rua+pedra+branca,+jardim+veneza+&amp;key=AIzaSyBwV6_FYJ83dNCNr3ADVljHUYmnM9OW9UA&amp;language=pt-BR&amp;region=BR&amp;mode=driving): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/vmw4lwdl/public_html/_/funcoes/get_taxa.php on line 37
+[06-Oct-2025 21:00:03 UTC] PHP Parse error:  syntax error, unexpected ' ' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/vmw4lwdl/public_html/_/classes/motoristas.php on line 3
+[07-Oct-2025 21:00:12 UTC] PHP Parse error:  syntax error, unexpected ' ' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/vmw4lwdl/public_html/_/classes/motoristas.php on line 3
+[08-Oct-2025 21:00:09 UTC] PHP Parse error:  syntax error, unexpected ' ' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/vmw4lwdl/public_html/_/classes/motoristas.php on line 3
+[09-Oct-2025 21:00:03 UTC] PHP Parse error:  syntax error, unexpected ' ' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/vmw4lwdl/public_html/_/classes/motoristas.php on line 3
+[10-Oct-2025 21:00:03 UTC] PHP Parse error:  syntax error, unexpected ' ' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/vmw4lwdl/public_html/_/classes/motoristas.php on line 3
+[11-Oct-2025 21:00:03 UTC] PHP Parse error:  syntax error, unexpected ' ' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/vmw4lwdl/public_html/_/classes/motoristas.php on line 3
+[12-Oct-2025 21:00:03 UTC] PHP Parse error:  syntax error, unexpected ' ' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/vmw4lwdl/public_html/_/classes/motoristas.php on line 3
+[13-Oct-2025 21:00:02 UTC] PHP Parse error:  syntax error, unexpected ' ' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/vmw4lwdl/public_html/_/classes/motoristas.php on line 3
+[14-Oct-2025 21:00:03 UTC] PHP Parse error:  syntax error, unexpected ' ' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/vmw4lwdl/public_html/_/classes/motoristas.php on line 3
+[15-Oct-2025 21:00:03 UTC] PHP Parse error:  syntax error, unexpected ' ' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/vmw4lwdl/public_html/_/classes/motoristas.php on line 3
+[16-Oct-2025 21:00:03 UTC] PHP Parse error:  syntax error, unexpected ' ' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/vmw4lwdl/public_html/_/classes/motoristas.php on line 3
+[14-Nov-2025 03:29:03 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/kgbi3lnj/public_html/_/classes/duplicar.php on line 17
+[14-Nov-2025 03:29:03 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/kgbi3lnj/public_html/_/classes/duplicar.php on line 27
+[14-Nov-2025 03:29:06 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/kgbi3lnj/public_html/_/classes/duplicar.php on line 17
+[14-Nov-2025 03:29:06 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/kgbi3lnj/public_html/_/classes/duplicar.php on line 27

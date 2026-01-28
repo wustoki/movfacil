@@ -1,0 +1,23 @@
+#cabecalho_msg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 20;
+    padding-left: 10px;
+    padding-right: 0;
+    padding-top: 10px;
+    padding-bottom: 0;
+    display: flex;
+    justify-content: center;
+    background-color: #000000FF;
+  }
+  
+  #tela_icon_cabecalho {
+    background-color: #000000FF;
+  }
+  
+  #txt_cabecalho {
+    background-color: #000000FF;
+  }
+  
